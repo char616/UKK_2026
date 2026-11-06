@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # School Class Progress (SCP)
 
 SCP adalah aplikasi berbasic Laravel untuk mengelola data sekolah, jadwal pelajaran, presensi, pengajuan izin, jurnal mengajar, notifikasi, dan rekap kehadiran.
@@ -104,3 +105,6 @@ Jalankan pengujian aplikasi dengan:
 ```bash
 php artisan test
 ```
+=======
+# scpprogress
+>>>>>>> origin/main
